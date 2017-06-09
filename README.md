@@ -21,3 +21,7 @@ ServiceController.java : has two rest endpoints
 Run Instructions:
 - mvn clean spring-boot: run
 - mvn clean install
+
+Deploy application on Tomcat 8.0
+Web application is on :  http://localhost:8080/IngAtmService/login
+user name: user,  password: password
